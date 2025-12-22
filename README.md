@@ -1,2 +1,1 @@
-# Python_functional_bootdev
-Functional programming exercises with Boot.dev
+This is exercises from the Functional Programming course on Boot.dev
